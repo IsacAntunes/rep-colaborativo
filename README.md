@@ -1,2 +1,2 @@
 # rep-colaborativo
-Repositório para estudo
+## Repositório para estudo de JavaScript  
